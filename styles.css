@@ -1,0 +1,39 @@
+/*
+ * Your Stylesheet
+ *
+ * This stylesheet is loaded when Atom starts up and is reloaded automatically
+ * when it is changed and saved.
+ *
+ * Add your own CSS or Less to fully customize Atom.
+ * If you are unfamiliar with Less, you can read more about it here:
+ * http://lesscss.org
+ */
+
+
+
+
+/* style the background color of the tree view */
+*{  background-color: 		#FF8C00;
+  /* background-color: whitesmoke; */
+}
+
+/* style the background and foreground colors on the atom-text-editor-element itself */
+p { font-size: 12px;
+
+}
+
+/* style UI elements inside atom-text-editor */
+* { font-family: sans-serif;
+   /*  border-color: red; */
+}
+
+ /* {
+    background-color: #888888; */
+
+}
+p { background-color: whitesmoke;
+
+   }
+ {
+
+}
